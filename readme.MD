@@ -3,7 +3,7 @@
 
 ![alt text](image.png)
 
-This module is developed for joindevops.com. We are creating following  resources. This module creates resources in first 2 Availability Zones for High Availability.
+This module is developed for joindevops.com. We are creating following  resources. This module creates resources in first 2 Availability Zones for High Availability..
 
 * VPC
 * Internet Gateway
